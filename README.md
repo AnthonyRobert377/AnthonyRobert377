@@ -4,3 +4,6 @@
 
 ## :trophy:GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnthonyRobert377&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+## Visitors
+![Visitor Count](https://profile-counter.glitch.me/AnthonyRobert377/count.svg)
