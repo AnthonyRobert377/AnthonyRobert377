@@ -1,7 +1,5 @@
 <h1>Hey! I'm Anthony. Web Developer with 7 years experience!</h1>
 
-![Years Since](https://your-server.com/badge?date=2016-06-01)
-
 <h2>Tech Stack</h2>
 
 <h3>Software</h3>
