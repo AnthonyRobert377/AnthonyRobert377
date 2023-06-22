@@ -1,4 +1,5 @@
-<h1>Hey! I'm Anthony. Web Developer with 7 years experience!</h1>
+<h1>Hey! I'm Anthony.</h1>
+<p>Web Developer with 7 years experience!</p>
 
 <h2>Tech Stack</h2>
 
