@@ -1,6 +1,7 @@
 <h1>Hey! I'm Anthony.</h1>
 <p>Web Developer with 7 years experience!</p>
 
+
 <h2>Tech Stack</h2>
 
 <h3>Software</h3>
@@ -24,10 +25,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-
-
 <h3>Languages</h3>
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -39,9 +36,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-
-
-
+<h2>GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=AnthonyRobert377&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyRobert377&theme=tokyonight&hide_border=true)<br/>
