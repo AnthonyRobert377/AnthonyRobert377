@@ -14,16 +14,16 @@ if (
 const readmePath = './README.md';
 let readme = fs.readFileSync(readmePath, 'utf-8');
 
-// Use regex to update dynamic span while keeping the placeholder
-readme = readme.replace(
-  /<p>Web Developer with (\d+|\[EXPERIENCE_YEARS\]) years experience!<\/p>/,
-  `<p>Web Developer with ${experience} years experience!</p>`
+// Create a temp version with the actual year for pushing
+const output = readme.replace(
+  '[EXPERIENCE_YEARS]',
+  `${experience}`
 );
 
-// Restore the placeholder so it can be replaced again next run
-readme = readme.replace(
-  new RegExp(`${experience} years experience!`),
-  `[EXPERIENCE_YEARS] years experience!`
-);
+// Push that version
+fs.writeFileSync(readmePath, output);
 
-fs.writeFileSync(readmePath, readme);
+// Then restore the placeholder version for next run (optional)
+setTimeout(() => {
+  fs.writeFileSync(readmePath, readme);
+}, 2000);
