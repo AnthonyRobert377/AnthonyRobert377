@@ -1,9 +1,9 @@
+
 <h1>Hey! I'm Anthony.</h1>
-<p>Web Developer with [EXPERIENCE_YEARS] years experience!</p>
+<p>Web Developer with 8 years experience!</p>
 
 <h2>Tech Stack</h2>
 <h3>Software</h3>
-
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
