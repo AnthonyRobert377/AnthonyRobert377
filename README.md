@@ -44,4 +44,4 @@
 
 <h3>:two_men_holding_hands: Visitors</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/AnthonyRobert377/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=anthonyrobert377.visitor-badge)
